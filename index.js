@@ -6,4 +6,4 @@ function updateMap()
     console.log(rsp)
  })
 }
-updateMap();
+updateMap(); 
